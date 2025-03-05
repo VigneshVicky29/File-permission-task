@@ -1,0 +1,7 @@
+This is the first line
+second line of text
+welcome to the shell scripting 
+this lines contains some word
+welcome, and let try it
+another test word welcome
+welcome again and learn more
